@@ -70,6 +70,7 @@
         <!-- Section: Text -->
         <section class="mb-4">
             <p>
+                Made by Giuseppe Vignanello for study purpouse <br>
                 The logo image was made with Canva AI
             </p>
         </section>
@@ -81,20 +82,20 @@
             <div class="row">
                 <!--Grid column-->
                 <div class="col-lg-3 col-md-6 mb-4 mb-md-0">
-                    <h5 class="text-uppercase">Links</h5>
+                    <h5 class="text-uppercase">Contacts</h5>
 
                     <ul class="list-unstyled mb-0">
                         <li>
-                            <a href="#!" class="text-white">Link 1</a>
+                            <a href="#!" class="text-white">Call Center</a>
                         </li>
                         <li>
-                            <a href="#!" class="text-white">Link 2</a>
+                            <a href="#!" class="text-white">Chat Online</a>
                         </li>
                         <li>
-                            <a href="#!" class="text-white">Link 3</a>
+                            <a href="#!" class="text-white">FAQ</a>
                         </li>
                         <li>
-                            <a href="#!" class="text-white">Link 4</a>
+                            <a href="#!" class="text-white">Claim</a>
                         </li>
                     </ul>
                 </div>
@@ -102,20 +103,20 @@
 
                 <!--Grid column-->
                 <div class="col-lg-3 col-md-6 mb-4 mb-md-0">
-                    <h5 class="text-uppercase">Links</h5>
+                    <h5 class="text-uppercase">How to reserve</h5>
 
                     <ul class="list-unstyled mb-0">
                         <li>
-                            <a href="#!" class="text-white">Link 1</a>
+                            <a href="#!" class="text-white">Travel Agency</a>
                         </li>
                         <li>
-                            <a href="#!" class="text-white">Link 2</a>
+                            <a href="#!" class="text-white">Ticket Office</a>
                         </li>
                         <li>
-                            <a href="#!" class="text-white">Link 3</a>
+                            <a href="#!" class="text-white">Reserve online</a>
                         </li>
                         <li>
-                            <a href="#!" class="text-white">Link 4</a>
+                            <a href="#!" class="text-white">Payment Methods</a>
                         </li>
                     </ul>
                 </div>
@@ -123,20 +124,20 @@
 
                 <!--Grid column-->
                 <div class="col-lg-3 col-md-6 mb-4 mb-md-0">
-                    <h5 class="text-uppercase">Links</h5>
+                    <h5 class="text-uppercase">Work with us</h5>
 
                     <ul class="list-unstyled mb-0">
                         <li>
-                            <a href="#!" class="text-white">Link 1</a>
+                            <a href="#!" class="text-white">Career opportunities</a>
                         </li>
                         <li>
-                            <a href="#!" class="text-white">Link 2</a>
+                            <a href="#!" class="text-white">Parternships</a>
                         </li>
                         <li>
-                            <a href="#!" class="text-white">Link 3</a>
+                            <a href="#!" class="text-white">Affiliate Program</a>
                         </li>
                         <li>
-                            <a href="#!" class="text-white">Link 4</a>
+                            <a href="#!" class="text-white">Advertising</a>
                         </li>
                     </ul>
                 </div>
@@ -144,20 +145,20 @@
 
                 <!--Grid column-->
                 <div class="col-lg-3 col-md-6 mb-4 mb-md-0">
-                    <h5 class="text-uppercase">Links</h5>
+                    <h5 class="text-uppercase">LUseful Links</h5>
 
                     <ul class="list-unstyled mb-0">
                         <li>
-                            <a href="#!" class="text-white">Link 1</a>
+                            <a href="#!" class="text-white">Terms of Service</a>
                         </li>
                         <li>
-                            <a href="#!" class="text-white">Link 2</a>
+                            <a href="#!" class="text-white">Privacy Policy</a>
                         </li>
                         <li>
-                            <a href="#!" class="text-white">Link 3</a>
+                            <a href="#!" class="text-white">Blog</a>
                         </li>
                         <li>
-                            <a href="#!" class="text-white">Link 4</a>
+                            <a href="#!" class="text-white">Special Offers </a>
                         </li>
                     </ul>
                 </div>
