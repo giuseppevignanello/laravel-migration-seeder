@@ -1,5 +1,5 @@
 <header>
-    <div id="headerBanner" class="bg-secondary text-center">
+    <div id="headerBanner" class="bg-dark text-center">
         <h2 class="text-white py-3">🚈Do not miss the latest offers!</h2>
     </div>
     <div id="bottomHeader" class="bg-light d-flex justify-content-between">
