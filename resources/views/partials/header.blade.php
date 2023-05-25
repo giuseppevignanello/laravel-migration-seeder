@@ -11,7 +11,7 @@
             <div class="container">
 
                 <div>
-                    <ul class="navbar-nav me-auto mt-lg-0 flex-row">
+                    <ul class="navbar-nav me-auto mt-lg-0 flex-row bg-transparent">
                         <li class="nav-item">
                             <a class="p-1 nav-link {{ Route::currentRouteName() === 'home' ? 'bg-dark text-white' : '' }}"
                                 href="{{ Route('home') }}" aria-current="page">Home </a>
