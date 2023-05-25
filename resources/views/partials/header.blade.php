@@ -10,19 +10,15 @@
         <nav class="navbar navbar-expand-sm navbar-light bg-light">
             <div class="container">
 
-                <button class="navbar-toggler d-lg-none" type="button" data-bs-toggle="collapse"
-                    data-bs-target="#collapsibleNavId" aria-controls="collapsibleNavId" aria-expanded="false"
-                    aria-label="Toggle navigation">
-                    <span class="navbar-toggler-icon"></span>
-                </button>
-                <div class="collapse navbar-collapse" id="collapsibleNavId">
-                    <ul class="navbar-nav me-auto mt-2 mt-lg-0">
+                <div>
+                    <ul class="navbar-nav me-auto mt-lg-0 flex-row">
                         <li class="nav-item">
-                            <a class="nav-link" href="#" aria-current="page">Home <span
-                                    class="visually-hidden">(current)</span></a>
+                            <a class="p-1 nav-link {{ Route::currentRouteName() === 'home' ? 'bg-dark text-white' : '' }}"
+                                href="{{ Route('home') }}" aria-current="page">Home </a>
                         </li>
-                        <li class="nav-item">
-                            <a class="nav-link" href="{{ Route('nextTrains') }}">Next Trains</a>
+                        <li class="nav-item ms-2">
+                            <a class="p-1 nav-link {{ Route::currentRouteName() === 'nextTrains' ? 'bg-dark text-white' : '' }}"
+                                href="{{ Route('nextTrains') }}"aria-current="page">Next Trains</a>
                         </li>
 
                     </ul>
